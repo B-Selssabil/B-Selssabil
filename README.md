@@ -14,6 +14,8 @@ I'm Selssabil from Algeria and  i'm a computer science student .I really enjoy b
 * SELENIUM 
 * JAVAFX
 * SQL
+* HTML
+* CSS
 
 
 
