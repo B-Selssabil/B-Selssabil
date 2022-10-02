@@ -25,7 +25,6 @@ I'm Selssabil from Algeria and  i'm a computer science student .I really enjoy b
 <img align="left" alt="selenium" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
 <br/>          
----
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/B-Selssabil)  
