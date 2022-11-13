@@ -20,8 +20,7 @@ I'm Selssabil from Algeria and  i'm a computer science student .I really enjoy b
 <img align="left" alt="mysql" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="mongodb" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="nodejs" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="nodejs" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="nodejs" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="express" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
 
 
