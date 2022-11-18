@@ -1,4 +1,4 @@
-<!--- ![Testing and Development](https://github.com/B-Selssabil/B-Selssabil-/blob/main/FINALLY.png) -->
+ ![Testing and Development](https://github.com/B-Selssabil/B-Selssabil-/blob/main/FINALLY.png)
 
 ### Boudefel Selssabil
 
@@ -7,7 +7,6 @@ I'm Selssabil from Algeria and  i'm a computer science student .I really enjoy b
 
 
 - 🔭 I’m currently studying  at ESTIN 
-- 👯 I'm looking for internship in QA engineering
 
 ---
 
