@@ -8,11 +8,13 @@
 🧑‍💻 Computer Science Student | 🤖 Machine Learning Enthusiast | ☁️ AWS Solutions Builder
 
 <br>
+<br>
 
 ### 📚 About Me
 I'm a passionate computer science student with a deep love for data science projects, machine learning, and cloud computing. With a keen interest in leveraging cutting-edge technologies to solve real-world problems, I'm on a journey to explore the vast world of data and AI.
 
 
+<br>
 <br>
 
 
@@ -23,6 +25,7 @@ I'm a passionate computer science student with a deep love for data science proj
 - ⏲️ Time Series Projects: I'm actively involved in time series analysis and forecasting, working on projects that involve understanding and predicting time-dependent data.
 
 <br>
+<br>
 
   
 ### 🛠️ Tech Stack
@@ -30,7 +33,8 @@ I'm a passionate computer science student with a deep love for data science proj
 - AWS (beginner level)
 - SQL, SQL3 Databases
 
-  <br>
+<br>
+<br>
 
 
 ### 📈 Current Goals
