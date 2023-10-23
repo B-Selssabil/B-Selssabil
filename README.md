@@ -1,47 +1,34 @@
- ![Testing and Development](https://github.com/B-Selssabil/B-Selssabil/blob/main/GITBANNER00.png)
+ ![Testing and Development](https://github.com/B-Selssabil/B-Selssabil/blob/main/GITBANNER-1.png)
 
 ### Boudefel Selssabil
+👋 Hello, I'm [Boudefel Selssabil]!
 
-Selssabil from Algeria, a computer science student .I really enjoy building test  automation  frameworks  and designing test cases .I also like developing softwares that people need in their life .I'm passionate about developing my skills and learning new things .
+🧑‍💻 Computer Science Student | 🤖 Machine Learning Enthusiast | ☁️ AWS Solutions Builder
 
-
-
-- 🔭 I’m currently studying  at ESTIN 
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="selenium" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img align="left" alt="Java" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="mysql" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="mongodb" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="nodejs" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="express" width="40px" style="marging-right:90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+📚 About Me
+I'm a passionate computer science student with a deep love for data science projects, machine learning, and cloud computing. With a keen interest in leveraging cutting-edge technologies to solve real-world problems, I'm on a journey to explore the vast world of data and AI.
 
 
-
-</br>          
-</br>          
-
-
----
-
-
-
-<!---
-### 🔭 My Work
-
-[<img src='https://github.com/B-Selssabil/B-Selssabil/blob/main/selenium.png' alt='selenium' >](https://github.com/B-Selssabil/testBankingV1) 
+🌟 What I Do
+- 🤖 Machine Learning: I enjoy building predictive models and working on data-driven solutions that harness the power of machine learning algorithms.
+- 📊 Data Science: Exploring, cleaning, and visualizing data is where the magic begins for me. Data is the key to unlocking insights and making informed decisions.
+- ☁️ AWS Enthusiast: I'm just starting my AWS journey and find it fascinating. I'm eager to learn how to create cloud-based solutions using Amazon Web Services, from deploying applications to managing infrastructure.
+- ⏲️ Time Series Projects: I'm actively involved in time series analysis and forecasting, working on projects that involve understanding and predicting time-dependent data.
+  
+🛠️ Tech Stack
+- Python, scikit-learn, OpenCv
+- AWS (beginner level)
+- SQL, SQL3 Databases
 
 
+📈 Current Goals
+I'm constantly expanding my skill set and working on exciting projects. Right now, my goals include:
+- Securing internships in the fields of machine learning, data science, and solution architecture.
+- Nurturing my AWS skills and becoming proficient in cloud-based solutions
+  
 
----
--->
+📫 Let's Connect
+I'm always open to learning, collaborating, and sharing knowledge. Feel free to reach out, whether it's for a project, collaboration, or just a friendly tech chat!
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/B-Selssabil)  
 
 
