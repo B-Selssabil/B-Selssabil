@@ -42,7 +42,8 @@ I'm constantly expanding my skill set and working on exciting projects. Right no
 - Securing internships in the fields of machine learning, data science, and solution architecture.
 - Nurturing my AWS skills and becoming proficient in cloud-based solutions
 
-  <br>
+<br>
+<br>
 
 
 ### 📫 Let's Connect
