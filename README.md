@@ -7,7 +7,7 @@
 
 
 ## 📚 About Me
-Junior AI Engineer with practical experience in designing, building, and deploying AI systems that deliver real-world impact. Gained expertise through internships and freelance projects, exploring areas from NLP to ASR, and always eager to learn new frameworks and technologies.
+AI Engineer with practical experience in designing, building, and deploying AI systems that deliver real-world impact. Gained expertise through internships and freelance projects, exploring areas from NLP to ASR, and always eager to learn new frameworks and technologies.
 
 Currently expanding knowledge in DevOps, system deployment, and monitoring in production environments.
 
