@@ -18,13 +18,9 @@ I care about turning algorithms into practical applications that genuinely help 
 
 <br>
 
-  
 ## 🛠️ Tech Stack
 - Python | scikit-learn | Pandas | NVIDIA NeMo | NVIDIA Riva | OpenAI API | HuggingFace | LLMs | ASR
 - AWS EC2 | S3 | IAM | VPC | Amazon Bedrock | Git | GitHub
-
-<br>
-
 
 <br>
 
