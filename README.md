@@ -1,41 +1,30 @@
- ![Testing and Development](https://github.com/B-Selssabil/B-Selssabil/blob/main/GITBANNER-1.png)
-
-## Boudefel Selssabil
+## Selssabil Boudefel
 
 
-👋 Hello, I'm Boudefel Selssabil!
+👋 Hello, I'm Selssabil Boudefel !
 
-🧑‍💻 Computer Science Student | 🤖 Machine Learning Enthusiast | ☁️ AWS Solutions Builder
+🤖 Junior AI Engineer | ⚙️ MLOps Engineer | 🏅 AWS Certified ×1 | 🔐 Ethical Hacking Enthusiast 
 
 <br>
 
 ## 📚 About Me
-I'm a passionate computer science student with a deep love for data science projects, machine learning, and cloud computing. With a keen interest in leveraging cutting-edge technologies to solve real-world problems, I'm on a journey to explore the vast world of data and AI.
+Junior AI Engineer with practical experience in designing, building, and deploying AI systems that deliver real-world impact. Gained expertise through internships and freelance projects, exploring areas from NLP to ASR, and always eager to learn new frameworks and technologies.
 
-<br>
+Currently expanding knowledge in DevOps, system deployment, and monitoring in production environments.
 
+I am also interested in ethical hacking and use what I learn to ensure safe and reliable AI deployment. 
 
-## 🌟 What I Do
-- 🤖 Machine Learning: I enjoy building predictive models and working on data-driven solutions that harness the power of machine learning algorithms.
-- 📊 Data Science: Exploring, cleaning, and visualizing data is where the magic begins for me. Data is the key to unlocking insights and making informed decisions.
-- ☁️ AWS Enthusiast: I'm just starting my AWS journey and find it fascinating. I'm eager to learn how to create cloud-based solutions using Amazon Web Services, from deploying applications to managing infrastructure.
-- ⏲️ Time Series Projects: I'm actively involved in time series analysis and forecasting, working on projects that involve understanding and predicting time-dependent data.
+I care about turning algorithms into practical applications that genuinely help people and make a real-world impact.
 
 <br>
 
   
 ## 🛠️ Tech Stack
-- Python, scikit-learn, OpenCv
-- AWS (beginner level)
-- SQL, SQL3 Databases
+- Python | scikit-learn | Pandas | NVIDIA NeMo | NVIDIA Riva | OpenAI API | HuggingFace | LLMs | ASR
+- AWS EC2 | S3 | IAM | VPC | Amazon Bedrock | Git | GitHub
 
 <br>
 
-
-## 📈 Current Goals
-I'm constantly expanding my skill set and working on exciting projects. Right now, my goals include:
-- Securing internships in the fields of machine learning, data science, and solution architecture.
-- Nurturing my AWS skills and becoming proficient in cloud-based solutions
 
 <br>
 
