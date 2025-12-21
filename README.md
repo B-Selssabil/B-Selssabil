@@ -5,7 +5,6 @@
 
 🤖 Junior AI Engineer | ⚙️ MLOps Engineer | 🏅 AWS Certified ×1 | 🔐 Ethical Hacking Enthusiast 
 
-<br>
 
 ## 📚 About Me
 Junior AI Engineer with practical experience in designing, building, and deploying AI systems that deliver real-world impact. Gained expertise through internships and freelance projects, exploring areas from NLP to ASR, and always eager to learn new frameworks and technologies.
