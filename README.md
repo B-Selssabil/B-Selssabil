@@ -3,7 +3,7 @@
 
 👋 Hello, I'm Selssabil Boudefel !
 
-🤖 AI Engineer | ⚙️ MLOps Engineer | 🏅 AWS Certified ×1 | 🔐 Ethical Hacking Enthusiast 
+🤖 AI Engineer | 🏅 AWS Certified ×1 | 🔐 Ethical Hacking Enthusiast 
 
 
 ## 📚 About Me
