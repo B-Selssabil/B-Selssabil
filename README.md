@@ -9,10 +9,6 @@
 ## 📚 About Me
 AI Engineer with practical experience in designing, building, and deploying AI systems that deliver real-world impact. Gained expertise through internships and freelance projects, exploring areas from NLP to ASR, and always eager to learn new frameworks and technologies.
 
-Currently expanding knowledge in DevOps, system deployment, and monitoring in production environments.
-
-I am also interested in ethical hacking and use what I learn to ensure safe and reliable AI deployment. 
-
 I care about turning algorithms into practical applications that genuinely help people and make a real-world impact.
 
 ## 🛠️ Tech Stack
